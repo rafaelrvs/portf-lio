@@ -1,0 +1,22 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.h1{
+    margin-left:25px;
+
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+    width: 800px;
+ 
+}
